@@ -1,0 +1,4 @@
+{
+  "native": ["https://api3.aoneroom.com", "https://apig.inmoviebox.com"],
+  "h5": ["https://h5-api.aoneroom.com"]
+}
